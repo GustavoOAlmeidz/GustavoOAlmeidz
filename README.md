@@ -45,12 +45,6 @@
 
 <br/>
 
-## 📊 Métricas do GitHub
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GustavoOAlmeidz&show_icons=true&theme=dracula" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoOAlmeidz&layout=compact&theme=dracula" />
-</div>
 
 <hr/>
 
