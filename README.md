@@ -89,7 +89,7 @@ Atuo na modernização do ciclo de receita e operações hospitalares, substitui
 
 | Projeto | Stack | Descrição |
 | :--- | :---: | :--- |
-| **Arquitetura de Plantões** | ⚛️ React / 🟢 Node.js | Aplicação Full Stack com painéis interativos e integração robusta de banco de dados para gestão financeira. |
+| **Arquitetura de Plantões** | JavaScript / ⚛️ React / 🟢 Node.js / NestJs | Aplicação Full Stack com painéis interativos e integração robusta de banco de dados para gestão financeira. |
 | **Automação Contábil** | 🐍 Python | Scripts de extração, transformação e carga (ETL) para modernização de infraestrutura legada. |
 | **Chatbot FÚRIA** | 🤖 Python / APIs | Interação automatizada e consumo de APIs externas para engajamento de torcedores de e-sports. |
 
